@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AllPapers>
+  <paper>
+    <title>the title of paper</title>
+    <publication>the publication of paper like sigcomm et al.</publication>
+    <time>2012</time>
+  </paper>
+</AllPapers>
